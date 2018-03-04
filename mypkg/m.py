@@ -1,4 +1,4 @@
 """This is a module"""
 
 def helloWorld():
-    print "hello world"
+    print("hello world")
