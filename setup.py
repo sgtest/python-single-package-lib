@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='my-single-package-lib',
-    version='0.0.3',
+    name='beyangs_special_package',
+    version='0.0.4',
     url='http://github.com/sgtest/python-single-package-lib',
-    packages=['mypkg'],
+    packages=['beyangs_special_package'],
     install_requires=[],
 )
